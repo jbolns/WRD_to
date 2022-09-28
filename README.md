@@ -1,4 +1,4 @@
-# WRD to (HTML), Document type conversion.
+# WRD to (HTML)
 A VBA script to convert (simple) Word documents into HTML.
 
 Helpful when you write a lot in Word (e.g., op-eds, journal articles, data analysis briefs) and need to frequently upload to HTML-driven websites.
