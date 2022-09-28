@@ -6,7 +6,7 @@ Helpful when you write a lot in Word (e.g., op-eds, journal articles, data analy
 ### Notes
 - The script is given as a *.bas* file, which can be imported easily into Word's VBA console.
 - Alternatively, the repo contains a Word document with the script preloaded and dummy text, for testing.
-- The *jpg* file is also for testing (and needs to be placed in the same folder as the Word document being converted).
+- The *jpg* file is also for testing (and must be located in the same folder as the Word document).
 
 ### Pending:
 - [ ] Documentation. Currently, you would need to read the VBA code to understand the script's capacities and limitations, and how it works.
